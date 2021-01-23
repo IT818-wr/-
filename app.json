@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/test1/test1",
+    "pages/test2/test2",
+    "pages/test/test",
+    "pages/plane/plane",
+    "pages/secret/secret",
+    "pages/game/game",
+    "pages/profile/profile",
+    "pages/double/double"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/test/test",
+      "text": "测一测"
+      
+      },
+      {
+        "pagePath": "pages/double/double",
+        "text": "随心飞"
+      },
+      {
+        "pagePath": "pages/game/game",
+        "text": "玩一玩"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

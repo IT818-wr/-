@@ -1,0 +1,6 @@
+<!--pages/test/test.wxml-->
+<view>
+  <view class="img1">欢迎来到我们的心理测试系统</view>
+  <image style="margin-top:200rpx;position:relative" src="../../assets/img1.png"></image>
+  <button type="default" plain="true" style="margin-top:90rpx" bind:tap="handleInter">进入</button>
+</view>

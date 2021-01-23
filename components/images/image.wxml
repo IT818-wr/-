@@ -1,0 +1,4 @@
+<!--components/image/image.wxml-->
+<view bindtap="handleImage">
+<image mode="aspectFit" src="{{src}}" style="height:1200rpx;width:750rpx"></image>
+</view>

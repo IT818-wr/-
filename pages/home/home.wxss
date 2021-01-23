@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.img{
+  height: 800rpx;
+  width: 700rpx;
+  margin-top: 150rpx;
+}

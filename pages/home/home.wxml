@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<image class="img" src="../../assets/home.gif" mode="scaleToFill"></image>
+
+

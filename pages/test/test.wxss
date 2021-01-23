@@ -1,0 +1,11 @@
+/* pages/test/test.wxss */
+.img1{
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  margin-top: 100rpx;
+  position: absolute;
+  right: 110rpx;
+  font-family:  cursive;
+  font-size: 20px;
+}
